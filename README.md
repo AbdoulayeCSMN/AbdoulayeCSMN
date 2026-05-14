@@ -1,16 +1,14 @@
-## Hi there 👋
+# Chaibou Saidou Abdoulaye 👋
+**AI & Data Engineer in progress · ENSAM Meknès**
 
-<!--
-**AbdoulayeCSMN/AbdoulayeCSMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I build real-world AI solutions:
+- **VendorShield** — Supplier risk prediction SaaS (Next.js · TypeScript · Supabase)
+- **Portefeuille-Advisor** — SAC agent (Deep RL) for portfolio optimization
+- **Movie-Recommender** — State-of-the-art recommendation system (7 algorithms + NCF + FastAPI)
+- **PPNet** — Explainable image classifier (ProtoPNet · XAI · PyTorch)
+- **OrlVoice** — AI voice assistant
+- **Harzourou + Aiki** — Custom AI-oriented programming language + package manager
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fields: NLP · Computer Vision · Reinforcement Learning · Explainable AI · Data Engineering  
+Stack: Python · PyTorch · Stable-Baselines3 · Next.js · TypeScript · Java · C/C++  
+**email** a.chaibou.tech@gmail.com
