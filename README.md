@@ -1,5 +1,5 @@
 # Chaibou Saidou Abdoulaye
-**AI & Data Engineer in progress · ENSAM Meknès**
+**AI & Data Engineer in progresss**
 
  I build real-world AI solutions:
 - **VendorShield** — Supplier risk prediction SaaS (Next.js · TypeScript · Supabase)
