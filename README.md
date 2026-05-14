@@ -1,4 +1,4 @@
-# Chaibou Saidou Abdoulaye 👋
+# Chaibou Saidou Abdoulaye
 **AI & Data Engineer in progress · ENSAM Meknès**
 
  I build real-world AI solutions:
