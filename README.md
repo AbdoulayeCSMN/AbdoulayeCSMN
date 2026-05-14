@@ -4,7 +4,6 @@
  I build real-world AI solutions:
 - **VendorShield** — Supplier risk prediction SaaS (Next.js · TypeScript · Supabase)
 - **Portefeuille-Advisor** — SAC agent (Deep RL) for portfolio optimization
-- **Movie-Recommender** — State-of-the-art recommendation system (7 algorithms + NCF + FastAPI)
 - **PPNet** — Explainable image classifier (ProtoPNet · XAI · PyTorch)
 - **OrlVoice** — AI voice assistant
 - **Harzourou + Aiki** — Custom AI-oriented programming language + package manager
