@@ -24,7 +24,7 @@ I build real-world AI solutions — from explainable computer vision to deep RL 
 
 ### 🚀 What I'm building
 
-- 🛡️ **[VendorShield](https://github.com/AbdoulayeCSMN/supplier-risk)** — AI-powered supplier risk SaaS · Next.js · TypeScript · Supabase
+- 🛡️ **[Avilyre](https://github.com/AbdoulayeCSMN/supplier-risk)** — AI-powered supplier risk SaaS · Next.js · TypeScript · Supabase
 - 📈 **[Portefeuille-Advisor](https://github.com/AbdoulayeCSMN/Portefeuille-Advisor)** — Deep RL portfolio optimizer · SAC · Gymnasium · Streamlit
 - 🗣️ **[OrlVoice](https://github.com/OrlCheetah)** — AI voice assistant · NLP
 - ⚙️ **Harzourou + Aiki** — Custom AI-oriented programming language + package manager · C/C++
