@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AbdoulayeCSMN-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbdoulayeCSMN)
 [![Gmail](https://img.shields.io/badge/a.chaibou.tech@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:a.chaibou.tech@gmail.com)
 
-Meknès, Morocco · 4th-year AI & Data Engineering student at ENSAM Meknès.
+Meknès, Morocco · 5th-year AI & Data Engineering student at ENSAM Meknès.
 
 I build real-world AI solutions — from explainable computer vision to deep RL portfolio agents and full-stack AI SaaS products.
 
